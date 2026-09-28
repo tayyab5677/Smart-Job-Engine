@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"Ali",
+        "skills":["Python","Django","PostgreSQL"],
+        "experience":2,
+        "education":"Bs Computer Science"
+    },
+    {
+        "id":2,
+        "name":"Ayesha",
+        "skills":["Python", "FastAPI", "PostgreSQL", "Docker"],
+        "experience":3,
+        "education":"Bs Software Engineering"
+    },
+    {
+        "id":3,
+        "name":"Sara",
+        "skills": ["React", "JavaScript", "HTML", "CSS"],
+        "experience":1,
+        "education":"Bs Computer Science"
+    },
+    {
+        "id":4,
+        "name":"Hamza",
+        "skills": ["Python", "Django", "Docker", "Git"],
+        "experience":2,
+        "education":"Bs Computer Science"
+    },
+    {
+        "id":5,
+        "name":"Ahmed",
+        "skills":["Java", "Spring Boot", "MySQL"],
+        "experience":4,
+        "education":"Bs Computer Science"
+    }
+]

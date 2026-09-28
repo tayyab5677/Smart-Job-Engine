@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Backend Developer",
+        "required_skills": ["Python", "Django", "PostgreSQL", "Docker"],
+        "minimum_experience": 2,
+        "location": "Remote"
+    },
+    {
+        "id": 2,
+        "title": "Frontend Developer",
+        "required_skills": ["React", "JavaScript", "HTML", "CSS"],
+        "minimum_experience": 1,
+        "location": "Lahore"
+    },
+    {
+        "id": 3,
+        "title": "Java Backend Developer",
+        "required_skills": ["Java", "Spring Boot", "MySQL"],
+        "minimum_experience": 2,
+        "location": "Islamabad"
+    }
+]
